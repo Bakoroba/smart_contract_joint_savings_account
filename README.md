@@ -1,11 +1,11 @@
 # Smart contract joint savings account
-The objective is to create a smart contract that will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account
-# Tasks
+The objective is to create a smart contract that will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
+## Tasks
 - Create a Joint Savings Account Contract in Solidity
 - Compile and Deploy Your Contract in the JavaScript VM
 - Interact with Your Deployed Smart Contract
 
-# Testing the App
+## Testing the App
 
 1. Define the authorized Ethereum address 
 - Compile and deploy
@@ -27,3 +27,11 @@ The objective is to create a smart contract that will use ether management funct
 
 - Withdrawing  10 ether into accountTwo
 <img src="Execution_Results/withdraw_10ether_account2.png">
+
+## Technology
+- Solidity
+- Remix IDE
+
+## License
+
+MIT
